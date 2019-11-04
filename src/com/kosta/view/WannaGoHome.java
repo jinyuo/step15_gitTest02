@@ -1,4 +1,4 @@
-package ex1104.home;
+package com.kosta.view;
 
 public class WannaGoHome {
 
