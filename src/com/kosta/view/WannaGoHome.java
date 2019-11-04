@@ -7,4 +7,8 @@ public class WannaGoHome {
 		System.out.println("Home sweet home");
 		System.out.println("so hungry");
 	}
+	
+	public void dinner() {
+		
+	}
 }
