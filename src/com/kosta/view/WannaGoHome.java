@@ -9,6 +9,6 @@ public class WannaGoHome {
 	}
 	
 	public void dinner() {
-		
+		System.out.println("awesome dinner");
 	}
 }
